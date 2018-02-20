@@ -8,6 +8,11 @@
     "version": "3.0",
     "authors": [
         {
+            "name": "David Gray",
+            "email": "dave@slydave.com",
+            "homepage": "http://slydave.com"
+        },
+        {
             "name": "Graham McCarthy",
             "email": "graham@soapboxhq.com",
             "homepage": "http://grahammccarthy.com"
@@ -22,7 +27,7 @@
         "php" : ">=7.0.10",
         "league/csv": "~9.0",
         "mustangostang/spyc": "~0.6",
-        "illuminate/support": "5.5.x"
+        "illuminate/support": "~5.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7 || ^6.5"
