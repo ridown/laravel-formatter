@@ -27,7 +27,7 @@ See Parsers and Formats to see supported input / output formats.
 Through command line:
 
 ```bash
-composer require soapbox/laravel-formatter
+composer require ridown/laravel-formatter
 ```
 
 Through composer.json:
@@ -35,7 +35,7 @@ Through composer.json:
 ```json
 {
   "require": {
-    "soapbox/laravel-formatter": "2.x"
+    "ridown/laravel-formatter": "~3.0"
   }
 }
 
